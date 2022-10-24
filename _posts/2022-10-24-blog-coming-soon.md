@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Blog coming soon"
 date:   2022-10-24
 categories: 
 ---
