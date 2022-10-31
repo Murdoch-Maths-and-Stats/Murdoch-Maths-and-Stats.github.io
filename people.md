@@ -4,4 +4,23 @@ title: People
 permalink: /people/
 ---
 
-Coming soon
+Professor Graeme Hocking
+
+Professor Gerd Schröder-Turk
+
+Dr Nayomi Attanayake
+
+Dr Farzana Jahan
+
+Dr Wafaa Mansoor
+
+Dr Alethea Rea
+
+Dr Phil Schrader
+
+Dr Soudabeh Shemehsavar
+
+
+
+
+
