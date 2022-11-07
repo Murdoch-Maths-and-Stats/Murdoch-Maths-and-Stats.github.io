@@ -9,11 +9,15 @@ permalink: /people/
 
 Dr Nayomi Attanayake
 
+[Dr Brenton Clarke](http://profiles.murdoch.edu.au/myprofile/brenton-clarke/)
+
 [Professor Graeme Hocking](http://profiles.murdoch.edu.au/myprofile/graeme-hocking/)
 
 [Dr Farzana Jahan](http://profiles.murdoch.edu.au/myprofile/farzana-jahan/)
 
 [Dr Wafaa Mansoor](http://profiles.murdoch.edu.au/myprofile/wafaa-mansoor/)
+
+[Jocelyn Milward](http://profiles.murdoch.edu.au/myprofile/jocelyn-milward/) has been a casual tutor at Murdoch since 2006. During that time she has consistently tutored first-year maths units – mostly MAS164 and MAS182 and their Open University equivalents.
 
 [Ha Nguyen](http://profiles.murdoch.edu.au/myprofile/ha-nguyen/)
 
