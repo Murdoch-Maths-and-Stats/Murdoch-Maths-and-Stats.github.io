@@ -9,7 +9,7 @@ permalink: /people/
 
 Dr Nayomi Attanayake
 
-[Dr Brenton Clarke](http://profiles.murdoch.edu.au/myprofile/brenton-clarke/)
+[Dr Brenton Clarke](http://profiles.murdoch.edu.au/myprofile/brenton-clarke/) has a role as an adjunct member of staff. He teaches/mentors 2 research students and having taught most of the statistics units in the past, before retirement, offers a friendly ear to current staff teaching statistics and also mathematics.  Brenton’s research is in both the mathematics of statistics and applied statistics. In addition, he has published two important monographs in the Wiley Series in Probability and Statistics, demonstrating his wealth of knowledge in the area.
 
 [Professor Graeme Hocking](http://profiles.murdoch.edu.au/myprofile/graeme-hocking/)
 
