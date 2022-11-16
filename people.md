@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 
-
+{% include peeps.html %}
 
 Dr Nayomi Attanayake
 
