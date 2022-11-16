@@ -11,9 +11,10 @@ Dr Nayomi Attanayake
 
 [Dr Brenton Clarke](http://profiles.murdoch.edu.au/myprofile/brenton-clarke/) has a role as an adjunct member of staff. He teaches/mentors 2 research students and having taught most of the statistics units in the past, before retirement, offers a friendly ear to current staff teaching statistics and also mathematics.  Brenton’s research is in both the mathematics of statistics and applied statistics. In addition, he has published two important monographs in the Wiley Series in Probability and Statistics, demonstrating his wealth of knowledge in the area.
 
-[Professor Graeme Hocking](http://profiles.murdoch.edu.au/myprofile/graeme-hocking/)
+[Professor Graeme Hocking](http://profiles.murdoch.edu.au/myprofile/graeme-hocking/) has taught units at all levels from first-year through to Honours. He teaches units in calculus, algebra and mathematical modelling and enjoys introducing students to the utility of mathematics across a variety of areas of science, from environmental science, biology, physiology and aerodynamics to industrial processes. His research interests encompass “anything” that can be modelled (which he says is almost everything). In particular he is interested in environmental fluid dynamics and improving industrial/community efficiency using mathematics. He is an Honorary Fellow and life member of the Australian Mathematical Society for his services to the mathematics community, and has been on the Council of AustMS and the Executive of ANZIAM (Aust. And NZ Industrial and Applied Mathematics Division of AustMS) for the last 10 years, including a 10 year term as Chief Editor of the ANZIAM Journal and two years as Chair of the Society.
 
-[Dr Farzana Jahan](http://profiles.murdoch.edu.au/myprofile/farzana-jahan/)
+[Dr Farzana Jahan](http://profiles.murdoch.edu.au/myprofile/farzana-jahan/) currently teaches second year units on biostatistical methods and applied statistics, a 3rd year unit on advanced statistical design and data analysis, helps coordinate and teach a first year statistics unit with a large multidisciplinary cohort, and teaches data analytics to masters students.  She identifies herself as a Statistician and Data Scientist. In her research she collaborates with people from different discipline such as health, ecology, environment, education, and business by applying her statistical knowledge and modelling techniques in solving real world problems. In methodological aspects, her research interest is spatial data analysis using Bayesian statistics. 
+
 
 [Dr Wafaa Mansoor](http://profiles.murdoch.edu.au/myprofile/wafaa-mansoor/)
 
@@ -27,8 +28,8 @@ Dr Alethea Rea
 
 [Professor Gerd Schröder-Turk](http://profiles.murdoch.edu.au/myprofile/gerd-schroeder-turk/) currently teaches a second-year calculus unit and a third-year computational modelling units in Murdoch's mathematics curriculum. Gerd's research uses computational and geometric modelling to study nanomaterials and biological materials, such as the complex 3D nanostructures that some butterflies use to create green reflections. Gerd is also a member of Murdoch University's Senate and of the National Executive of the Australian Institute of Physics. Find out more about Gerd on his [personal webpage](http://gerdschroeder-turk.org).
 
-Dr Soudabeh Shemehsavar
-
+[Dr Soudabeh Shemehsavar](http://profiles.murdoch.edu.au/myprofile/soudabeh-shemehsavar/)
+has taught many probability and statistics units in the past and will teach the third-year unit Time Series Analysis in 2023.  Sodi ’s research is in a variety of areas including Statistical Learning Methods, Survival Analysis, Maintenance policies, and Stochastic processes and their application in industry, medicine and economics.
 
 
 
