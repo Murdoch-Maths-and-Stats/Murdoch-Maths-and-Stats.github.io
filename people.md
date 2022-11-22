@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 
-<img src="people.jpeg">
+<img src="{{ site.baseurl }}/img/people.jpeg">
 
 <p>
 <details>
