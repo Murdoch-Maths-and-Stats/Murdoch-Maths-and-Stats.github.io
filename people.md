@@ -4,6 +4,9 @@ title: People
 permalink: /people/
 ---
 
+
+<img src="img/people.jpeg">
+
 <p>
 <details>
 <summary>Dr Nayomi Attanayake</summary>
