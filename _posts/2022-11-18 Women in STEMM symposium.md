@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Women in STEMM symposium"
+author: "Wafaa Mansoor"
 date:   2022-11-17
 categories: 
 ---
