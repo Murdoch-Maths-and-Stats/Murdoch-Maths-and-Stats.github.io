@@ -79,7 +79,7 @@ currently teaches a first-year unit on discrete maths and logic. Phil's research
 <details>
 <summary>Professor Gerd Schröder-Turk</summary>
 <a href="http://profiles.murdoch.edu.au/myprofile/gerd-schroeder-turk/">Gerd</a>
-currently teaches a second-year calculus unit and a third-year computational modelling units in Murdoch's mathematics curriculum. Gerd's research uses computational and geometric modelling to study nanomaterials and biological materials, such as the complex 3D nanostructures that some butterflies use to create green reflections. Gerd is also a member of Murdoch University's Senate and of the National Executive of the Australian Institute of Physics. Find out more about Gerd on his <a href="http://gerdschroeder-turk.org)">personal webpage </a>.
+currently teaches a second-year calculus unit and a third-year computational modelling unit in Murdoch's mathematics curriculum. Gerd's research uses computational and geometric modelling to study nanomaterials and biological materials, such as the complex 3D nanostructures that some butterflies use to create green reflections. Gerd is also a member of Murdoch University's Senate and of the National Executive of the Australian Institute of Physics. Find out more about Gerd on his <a href="http://gerdschroeder-turk.org)">personal webpage </a>.
 </details>
 </p>
 
