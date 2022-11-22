@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 
-<img src="img/people.jpeg">
+<img src="people.jpeg">
 
 <p>
 <details>
