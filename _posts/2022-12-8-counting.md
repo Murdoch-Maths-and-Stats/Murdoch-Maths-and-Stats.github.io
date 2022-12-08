@@ -8,11 +8,11 @@ categories:
 <img src="{{ site.baseurl }}/img/chinesecount1.jpeg">
 <!--more--> 
 
-It's a basic convention established in primary school maths that when I write 1235 I mean the number one thousand two hundred and thirty five, that is, one lot of a thousand, two hundreds, three tens and five ones. Remembering that $$1000=10^3, 100=10^2, 10=10^1,$$ and $$1=10^1$$, what we are doing here is tallying powers of 10. 
+It's a basic convention established in primary school maths that when I write 1235 I mean the number one thousand two hundred and thirty five, that is, one lot of a thousand, two hundreds, three tens and five ones. Remembering that $$1000=10^3$$, $$100=10^2$$, $$10=10^1,$$ and $$1=10^0$$, what we are doing here is tallying powers of 10. 
 
 This is called a base 10 number system, each of the digits in 1235 multiplies a power of 10 according to its place value. 
 
-This is not only way we could write numbers - we could use powers of 3 instead, for example - but base 10 certainly seems like the most natural way to do it. As I tell my first year students, this is probably because we all have ten fingers. On the other... hand... computers are essentially built from switches which are either on or off, it's like they only have two fingers, and so we make them work in base 2, or *binary*. 
+This is not the only way we could write numbers - we could use powers of 3 instead, for example - but base 10 certainly seems like the most natural way to do it. As I tell my first year students, this is probably because we all have ten fingers. On the other... hand... computers are essentially built from switches which are either on or off, it's like they only have two fingers, and so we make them work in base 2, or *binary*. 
 
 However, it seems this is not quite the full story. I was surprised to find out while living in Japan that not everyone counts to ten on their fingers using both hands. Japanese people typically count to ten with *one hand* by starting with an open hand, folding each finger down, and then popping them back up.  
 
