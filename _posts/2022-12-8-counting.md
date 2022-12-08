@@ -14,7 +14,7 @@ $$1235=1\times 10^3+2\times 10^2+3\times 10^1+5\times 10^0 $$
 
 This is called a base $$10$$ number system, because each of the digits in $$1235$$ multiplies a power of $$10$$ according to its place value. 
 
-This is not only way we could write numbers - we could use powers of 3 instead, for example - but it certainly seems like the most natural way to do it. As I tell my first year students, this is probably because we all have ten fingers. On the other... hand... computers are essentially built from switches which are either on or off, it's like they only have two fingers, and so we make them work in base 2, or *binary*. 
+This is not only way we could write numbers - we could use powers of 3 instead, for example - but base 10 certainly seems like the most natural way to do it. As I tell my first year students, this is probably because we all have ten fingers. On the other... hand... computers are essentially built from switches which are either on or off, it's like they only have two fingers, and so we make them work in base 2, or *binary*. 
 
 However, it seems this is not quite the full story. I was surprised to find out while living in Japan that not everyone counts to ten on their fingers using both hands. Japanese people typically count to ten with *one hand* by starting with an open hand, folding each finger down, and then popping them back up.  
 
