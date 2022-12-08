@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Finger counting around the world"
+title:  "Counting around the world"
 date:   2022-12-8
 categories: 
 ---
 
-<img src="{{ site.baseurl }}/img/chinesecount.gif">
+<img src="{{ site.baseurl }}/img/chinesecount1.jpeg">
 <!--more--> 
 
 It's a basic convention established in primary school maths that when I write $$1235$$ I mean the number one thousand two hundred and thirty five, that is, one lot of a thousand, two hundreds, three tens and five ones. Mathematically, remembering that $$1000=10^3, 100=10^2, 10=10^1,$$ and $$1=10^1$$, we have
@@ -19,13 +19,14 @@ This is not only way we could write numbers - we could use powers of 3 instead, 
 However, it seems this is not quite the full story. I was surprised to find out while living in Japan that not everyone counts to ten on their fingers using both hands. Japanese people typically count to ten with *one hand* by starting with an open hand, folding each finger down, and then popping them back up.  
 
 <img src="{{ site.baseurl }}/img/japancount.gif">
+
 (Picture borrowed from [here](https://voyapon.com/counting-in-japanese-numbers/#:~:text=Compared%20to%20some,1%20and%209.))
 
 ([Ancient Roman finger numerals](https://www.maa.org/press/periodicals/convergence/mathematical-treasure-roman-finger-numerals) start off the same way!)
 
 The Chinese use hand gestures (varying slightly by region) which for the numbers 6 to 10 resemble the corresponding Chinese Characters.
 
-<img src="{{ site.baseurl }}/img/chinesecount.gif">
+<img src="{{ site.baseurl }}/img/chinesecount.jpeg">
 
 There doesn't seem to be much indication that these are associated with the use of a number system in a base other than 10 (although, if you'll indulge me in some wild speculation, perhaps in ancient times there was such a system in China, see the [hexagrams of the I Ching](https://en.wikipedia.org/wiki/Hexagram_(I_Ching))?).
 
