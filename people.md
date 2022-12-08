@@ -10,7 +10,7 @@ permalink: /people/
 <p>
 <details>
 <summary>Dr Nayomi Attanayake</summary>
-
+Nayomi teaches across our statistics units. Her research interests are in applied statistics, such as risk assessment and decision making.
 </details>
 </p>
 
@@ -40,7 +40,7 @@ has a role as an adjunct member of staff. He teaches/mentors 2 research students
 <p>
 <details>
 <summary>Dr Wafaa Mansoor</summary>
-<a href="http://profiles.murdoch.edu.au/myprofile/wafaa-mansoor/"> Wafaa </a>
+<a href="http://profiles.murdoch.edu.au/myprofile/wafaa-mansoor/"> Wafaa </a> teaches first-year units fundamental mathematics, calculus and matrix algebra. Her research is in the area of fluid dynamics, and in particular applications in various areas, including blood flow, free surface problems, and disease modelling. 
 </details>
 </p>
 
@@ -55,7 +55,7 @@ has been a casual tutor at Murdoch since 2006. During that time she has consiste
 <p>
 <details>
 <summary>Ha Nguyen</summary>
-<a href="http://profiles.murdoch.edu.au/myprofile/ha-nguyen/">Ha</a>
+<a href="http://profiles.murdoch.edu.au/myprofile/ha-nguyen/">Ha</a> teaches a range of first and second-year Maths units, covering calculus, differential equations, discrete maths and linear algebra. Her research interests include real and functional analysis, field theory, number theory, algebraic geometry, and more recently - fluid dynamics. 
 </details>
 </p>
 
