@@ -7,12 +7,6 @@ permalink: /people/
 
 <img src="{{ site.baseurl }}/img/people.jpeg">
 
-<p>
-<details>
-<summary>Dr Nayomi Attanayake</summary>
-Nayomi teaches across our statistics units. Her research interests are in applied statistics, such as risk assessment and decision making.
-</details>
-</p>
 
 <p>
 <details>
